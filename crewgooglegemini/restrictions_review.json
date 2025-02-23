@@ -1,0 +1,13 @@
+{
+    "restrictions": [
+        "no hill climbing",
+        "no trekking",
+        "migraine health issues",
+        "no White House"
+    ],
+    "justifications": {
+        "White House": "The White House was excluded from the itinerary because the user specifically requested 'no White House'.",
+        "hill climbing and trekking": "Activities involving hill climbing and trekking were excluded due to the restrictions 'no hill climbing' and 'no trekking'.  While Watkins Glen State Park has some hills, the itinerary focuses on the accessible paths and viewpoints, avoiding strenuous climbs.",
+        "potential migraine triggers": "The itinerary avoids potential migraine triggers by suggesting indoor activities and accessible transportation options.  Outdoor activities are planned for less crowded times and include breaks.  Specific food triggers weren't mentioned, so a general non-veg diet was accommodated."
+    }
+}

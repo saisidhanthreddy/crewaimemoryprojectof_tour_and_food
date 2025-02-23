@@ -1,0 +1,10 @@
+```json
+{
+  "starting_location": "london",
+  "destination": "new york",
+  "travel_month": "october",
+  "preferred_activities": ["sightseeing", "food", "waterfalls"],
+  "restrictions": ["no hillclimbing", "no trekking", "migraine health issues", "white house"],
+  "food_preference": "non-veg"
+}
+```

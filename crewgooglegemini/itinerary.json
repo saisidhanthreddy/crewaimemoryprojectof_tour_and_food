@@ -1,0 +1,66 @@
+{
+    "trip_details": {
+        "starting_location": "London",
+        "destination": "New York City",
+        "travel_month": "October",
+        "duration": "7 days",
+        "preferences": {
+            "activities": [
+                "sightseeing",
+                "food",
+                "waterfalls"
+            ],
+            "food": "non-veg"
+        },
+        "restrictions": [
+            "no hill climbing",
+            "no trekking",
+            "migraine health issues",
+            "no White House"
+        ]
+    },
+    "itinerary": [
+        {
+            "day": 1,
+            "morning": "Arrive at JFK Airport, transfer to hotel. Explore Times Square.",
+            "afternoon": "Lunch at Carmine's (Italian, family-style). Visit the accessible Top of the Rock observation deck.",
+            "evening": "Dinner at Keens Steakhouse, Broadway show."
+        },
+        {
+            "day": 2,
+            "morning": "Visit the Statue of Liberty and Ellis Island (accessible ferry).",
+            "afternoon": "Explore the 9/11 Memorial & Museum (accessible).",
+            "evening": "Dinner at The Smith (American brasserie), explore Greenwich Village."
+        },
+        {
+            "day": 3,
+            "morning": "Visit the Metropolitan Museum of Art (accessible).",
+            "afternoon": "Lunch at Katz's Delicatessen. Explore Central Park by horse-drawn carriage.",
+            "evening": "Dinner at Peter Luger Steak House (Brooklyn), accessible by taxi."
+        },
+        {
+            "day": 4,
+            "morning": "Day trip to Watkins Glen State Park (partially accessible paths and views of the gorge and waterfalls).",
+            "afternoon": "Picnic lunch at the park, explore the accessible areas.",
+            "evening": "Return to NYC, dinner at a restaurant of choice."
+        },
+        {
+            "day": 5,
+            "morning": "Visit the American Museum of Natural History (accessible).",
+            "afternoon": "Lunch at Shake Shack. Explore the accessible High Line park.",
+            "evening": "Dinner at a restaurant in Chelsea Market, visit the Comedy Cellar."
+        },
+        {
+            "day": 6,
+            "morning": "Visit the Intrepid Sea, Air & Space Museum (accessible).",
+            "afternoon": "Lunch at a food truck. Explore the accessible areas of Governors Island.",
+            "evening": "Farewell dinner at a restaurant with a view of the city skyline."
+        },
+        {
+            "day": 7,
+            "morning": "Last-minute souvenir shopping.",
+            "afternoon": "Brunch at a restaurant of choice.",
+            "evening": "Transfer to JFK Airport for departure."
+        }
+    ]
+}
